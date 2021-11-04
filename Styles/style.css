@@ -1,0 +1,34 @@
+#ScissorsButton{
+	width:200px;
+	height:200px;
+}
+#RockButton{
+	width:200px;
+	height:200px;
+}
+#PaperButton{
+	width:200px;
+	height:200px;
+}
+body{
+	background:black;
+}
+.container1{
+	display:flex;
+	justify-content:center;
+	align-items:row;
+}	
+#headline1{
+	display:flex;
+	justify-content:center;
+	align-items:row;
+	font-family:Monstserrat;
+	color:#AAFF00;
+}
+#headline2{
+	display:flex;
+	justify-content:center;
+	align-items:row;
+	font-family:Monstserrat;
+	color:#90EE90;
+}
